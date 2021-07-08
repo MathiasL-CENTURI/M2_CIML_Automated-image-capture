@@ -79,14 +79,11 @@ Make sure the stepper motors are correctly plugged to the CNC shield. Help here 
 
 ## Yet to do
 * Add STOP button
-* Add 2 new endstops at the end of the axis
-* Add a filter for the endstops
+* ~~Add 2 new endstops at the end of the axis~~
 * config.py to json
 * ~~Placing the end stops on the frame, on each axis;~~
 * ~~Defining the bottom left well as the zero position.~~
 * ~~Move arg_def(from functions.py) into cli.py~~
-* Write a small user guide for the cli into readme
-* Update the scheme below with the current path
+* ~~Write a small user guide for the cli into readme~~
 * Make a scheme for electronics
 * ~~Add the config.h file with modification for grbl~~
-![scheme](drawings/scheme.png)
